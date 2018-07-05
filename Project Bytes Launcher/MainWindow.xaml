@@ -17,7 +17,7 @@
         <Grid.Background>
             <ImageBrush ImageSource="/Project Bytes Launcher;component/Images/LauncherBG.png"/>
         </Grid.Background>
-        <Button x:Name="PlayButton" Content="Play" Margin="746,392,37,29" Foreground="White" Opacity="0.8" RenderTransformOrigin="0.5,0.5" FontFamily="Rockwell" FontWeight="Bold" FontSize="36" Cursor="Hand" Click="PlayButton_Click">
+        <Button x:Name="PlayButton" Content="Play" Margin="746,392,37,29" Foreground="White" Opacity="0.8" RenderTransformOrigin="0.5,0.5" FontFamily="Rockwell" FontWeight="Bold" FontSize="36" Cursor="Hand" Click="PlayButton_Click" BorderBrush="{x:Null}">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -36,7 +36,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:Name="QuitButton" Content="Quit" Margin="37,0,745.6,29" Foreground="White" Opacity="0.8" RenderTransformOrigin="0.5,0.5" FontFamily="Rockwell" FontWeight="Bold" FontSize="36" Height="90" VerticalAlignment="Bottom" Cursor="Hand" Click="QuitButton_Click">
+        <Button x:Name="QuitButton" Content="Quit" Margin="37,0,745.6,29" Foreground="White" Opacity="0.8" RenderTransformOrigin="0.5,0.5" FontFamily="Rockwell" FontWeight="Bold" FontSize="36" Height="90" VerticalAlignment="Bottom" Cursor="Hand" Click="QuitButton_Click" BorderBrush="{x:Null}">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -55,7 +55,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:Name="AboutButton" Content="?" Margin="44,32,852.6,0" Foreground="White" Opacity="0.8" RenderTransformOrigin="0.5,0.5" FontFamily="Rockwell" FontWeight="Bold" FontSize="36" Cursor="Hand" Click="AboutButton_Click" Height="45" VerticalAlignment="Top">
+        <Button x:Name="AboutButton" Content="?" Margin="44,32,852.6,0" Foreground="White" Opacity="0.8" RenderTransformOrigin="0.5,0.5" FontFamily="Rockwell" FontWeight="Bold" FontSize="36" Cursor="Hand" Click="AboutButton_Click" Height="45" VerticalAlignment="Top" BorderBrush="{x:Null}">
             <Button.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -71,6 +71,25 @@
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF1F9F21" Offset="0"/>
                     <GradientStop Color="#FF0F4007" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="HelpButton" Content="!" Margin="106,32,790.6,0" Foreground="White" Opacity="0.8" RenderTransformOrigin="0.5,0.5" FontFamily="Rockwell" FontWeight="Bold" FontSize="36" Cursor="Hand" Click="HelpButton_Click" Height="45" VerticalAlignment="Top" BorderBrush="{x:Null}">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-12"/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFEDFF1C" Offset="0"/>
+                    <GradientStop Color="#FF403E07" Offset="1"/>
                 </LinearGradientBrush>
             </Button.Background>
         </Button>

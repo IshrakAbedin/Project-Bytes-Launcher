@@ -40,5 +40,10 @@ namespace Project_Bytes_Launcher
         {
             Launcher.About();
         }
+
+        private void HelpButton_Click(object sender, RoutedEventArgs e)
+        {
+            Launcher.Help();
+        }
     }
 }

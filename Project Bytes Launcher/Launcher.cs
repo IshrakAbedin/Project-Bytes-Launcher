@@ -24,5 +24,11 @@ namespace Project_Bytes_Launcher
             About a1 = new About();
             a1.Show();
         }
+
+        public static void Help()
+        {
+            HelpWindow h1 = new HelpWindow();
+            h1.Show();
+        }
     }
 }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\
 Project_Bytes_Launcher
 none
 false
 DEBUG;TRACE
-G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\App.xaml
-2540622995
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\App.xaml
+32036698708
 
-71014458550
+81671836047
 131569487696
-About.xaml;MainWindow.xaml;
+About.xaml;HelpWindow.xaml;MainWindow.xaml;
 
 False
 
