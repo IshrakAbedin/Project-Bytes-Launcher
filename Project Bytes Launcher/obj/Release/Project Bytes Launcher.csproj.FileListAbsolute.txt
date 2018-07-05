@@ -1,0 +1,20 @@
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\bin\Release\Project Bytes Launcher.exe.config
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\bin\Release\Project Bytes Launcher.exe.manifest
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\bin\Release\Project Bytes Launcher.application
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\bin\Release\Project Bytes Launcher.exe
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\bin\Release\Project Bytes Launcher.pdb
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\About.g.cs
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\MainWindow.g.cs
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\App.g.cs
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher_MarkupCompile.cache
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher_MarkupCompile.lref
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\About.baml
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\MainWindow.baml
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.g.resources
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project_Bytes_Launcher.Properties.Resources.resources
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.csproj.GenerateResource.Cache
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.csproj.CoreCompileInputs.cache
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.exe.manifest
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.application
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.exe
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.pdb

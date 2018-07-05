@@ -1,0 +1,21 @@
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\bin\Debug\Project Bytes Launcher.exe.config
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\bin\Debug\Project Bytes Launcher.exe
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\bin\Debug\Project Bytes Launcher.pdb
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.csprojResolveAssemblyReference.cache
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\MainWindow.g.cs
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\App.g.cs
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher_MarkupCompile.cache
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher_MarkupCompile.lref
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\MainWindow.baml
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.g.resources
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project_Bytes_Launcher.Properties.Resources.resources
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.csproj.GenerateResource.Cache
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.csproj.CoreCompileInputs.cache
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.exe
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.pdb
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\About.g.cs
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\About.baml
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\bin\Debug\Project Bytes Launcher.exe.manifest
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\bin\Debug\Project Bytes Launcher.application
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.exe.manifest
+G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.application
