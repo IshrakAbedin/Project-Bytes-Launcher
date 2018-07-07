@@ -21,7 +21,7 @@ namespace Project_Bytes_Launcher
 
         public static void About()
         {
-            About a1 = new About();
+            AboutWindow a1 = new AboutWindow();
             a1.Show();
         }
 
@@ -30,5 +30,6 @@ namespace Project_Bytes_Launcher
             HelpWindow h1 = new HelpWindow();
             h1.Show();
         }
+           
     }
 }

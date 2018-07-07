@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Project_Bytes_Launcher"
         mc:Ignorable="d"
-        Title="HelpWindow" Height="450" Width="750" ResizeMode="NoResize" Icon="/Project Bytes Launcher;component/Images/LauncherIcon.png">
+        Title="Help" Height="700 " Width="1000" ResizeMode="NoResize" Icon="/Project Bytes Launcher;component/Images/LauncherIcon.png" WindowStartupLocation="CenterScreen">
     <Window.Background>
         <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
             <GradientStop Color="Black" Offset="0"/>
@@ -14,20 +14,16 @@
         </LinearGradientBrush>
     </Window.Background>
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="287*"/>
-            <ColumnDefinition Width="457*"/>
-        </Grid.ColumnDefinitions>
-        <Label Content="Help" Margin="13.1,10,319,350" FontFamily="Baskerville Old Face" OpacityMask="White" Foreground="White" Background="{x:Null}" FontSize="36" Grid.Column="1"/>
-        <Label Content="This Section contains help" Margin="10,75,10,68" BorderBrush="#FF002B91" Foreground="#FFB0B0B0" FontFamily="Baskerville Old Face" FontSize="14" Grid.ColumnSpan="2">
-            <Label.Background>
+        <Label Content="Help" Margin="13,10,9.6,0" FontFamily="Baskerville Old Face" OpacityMask="White" Foreground="White" Background="{x:Null}" FontSize="36" Height="64" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+        <Button x:Name="ReturnButton"  Content="Return" Margin="20,0,0,20" FontFamily="Rockwell" Foreground="White" Click="ReturnButton_Click" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Bottom" >
+            <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                    <GradientStop Color="Black" Offset="0"/>
-                    <GradientStop Color="#FF252525" Offset="1"/>
+                    <GradientStop Color="#FFBC0000" Offset="0"/>
+                    <GradientStop Color="#FF400000" Offset="1"/>
                 </LinearGradientBrush>
-            </Label.Background>
-        </Label>
-        <Button x:Name="TempButton"  Content="OK" Margin="235,362,235,10" FontFamily="Rockwell" Foreground="White" Click="TempButton_Click" FontSize="18" Grid.ColumnSpan="2" >
+            </Button.Background>
+        </Button>
+        <Button x:Name="Button_Controls"  Content="Controls" Margin="20,90,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" Click="Button_Controls_Click" >
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF0068BC" Offset="0"/>
@@ -35,5 +31,54 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
+        <Button x:Name="Button_HUD"  Content="HUD" Margin="20,160,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" Click="Button_HUD_Click" >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0068BC" Offset="0"/>
+                    <GradientStop Color="#FF00225C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Button_Gameplay"  Content="Gameplay" Margin="20,230,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0068BC" Offset="0"/>
+                    <GradientStop Color="#FF00225C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Button_Weapons"  Content="Weapons" Margin="20,300,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0068BC" Offset="0"/>
+                    <GradientStop Color="#FF00225C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Button_PowerUps"  Content="PowerUps" Margin="20,370,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0068BC" Offset="0"/>
+                    <GradientStop Color="#FF00225C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Button_LootBox"  Content="Loot Box" Margin="20,510,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0068BC" Offset="0"/>
+                    <GradientStop Color="#FF00225C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Button_Upgrades"  Content="Upgrades" Margin="20,440,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0068BC" Offset="0"/>
+                    <GradientStop Color="#FF00225C" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Image x:Name="ImageBox_Help" HorizontalAlignment="Right" Margin="0,90,70,20" Width="650" Stretch="Fill"/>
     </Grid>
 </Window>

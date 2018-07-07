@@ -24,9 +24,29 @@ namespace Project_Bytes_Launcher
             InitializeComponent();
         }
 
-        private void TempButton_Click(object sender, RoutedEventArgs e)
+        private void ReturnButton_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
+        }
+
+        private void Button_Controls_Click(object sender, RoutedEventArgs e)
+        {
+            BitmapImage B1 = new BitmapImage();
+            B1.BeginInit();
+            B1.UriSource = new Uri("Img_Controls.png",UriKind.Relative);
+            B1.EndInit();
+
+            ImageBox_Help.Source = B1;
+        }
+
+        private void Button_HUD_Click(object sender, RoutedEventArgs e)
+        {
+            BitmapImage B1 = new BitmapImage();
+            B1.BeginInit();
+            B1.UriSource = new Uri("Img_HUD.png", UriKind.Relative);
+            B1.EndInit();
+
+            ImageBox_Help.Source = B1;
         }
     }
 }

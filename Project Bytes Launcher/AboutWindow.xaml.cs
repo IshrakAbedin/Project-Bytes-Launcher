@@ -17,9 +17,9 @@ namespace Project_Bytes_Launcher
     /// <summary>
     /// Shows the simple about screen
     /// </summary>
-    public partial class About : Window
+    public partial class AboutWindow : Window
     {
-        public About()
+        public AboutWindow()
         {
             InitializeComponent();
         }

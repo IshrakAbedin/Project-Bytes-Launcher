@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("launchericon.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("img_hud.png")]
 
 

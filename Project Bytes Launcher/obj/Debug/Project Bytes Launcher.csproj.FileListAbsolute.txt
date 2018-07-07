@@ -25,13 +25,11 @@ G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Debug\Project Bytes L
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Debug\Project Bytes Launcher.exe
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Debug\Project Bytes Launcher.pdb
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.csprojResolveAssemblyReference.cache
-G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\About.g.cs
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\HelpWindow.g.cs
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\MainWindow.g.cs
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\App.g.cs
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher_MarkupCompile.cache
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher_MarkupCompile.lref
-G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\About.baml
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\MainWindow.baml
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\HelpWindow.baml
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.g.resources
@@ -42,3 +40,5 @@ G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes L
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.application
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.exe
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.pdb
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\AboutWindow.g.cs
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\AboutWindow.baml
