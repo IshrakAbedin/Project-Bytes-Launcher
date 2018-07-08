@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("img_hud.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("img_lootbox.png")]
 
 

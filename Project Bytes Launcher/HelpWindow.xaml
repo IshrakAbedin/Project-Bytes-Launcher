@@ -39,7 +39,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:Name="Button_Gameplay"  Content="Gameplay" Margin="20,230,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" >
+        <Button x:Name="Button_Gameplay"  Content="Gameplay" Margin="20,230,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" Click="Button_Gameplay_Click" >
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF0068BC" Offset="0"/>
@@ -47,7 +47,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:Name="Button_Weapons"  Content="Weapons" Margin="20,300,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" >
+        <Button x:Name="Button_Weapons"  Content="Weapons" Margin="20,300,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" Click="Button_Weapons_Click" >
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF0068BC" Offset="0"/>
@@ -55,7 +55,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:Name="Button_PowerUps"  Content="PowerUps" Margin="20,370,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" >
+        <Button x:Name="Button_PowerUps"  Content="PowerUps" Margin="20,370,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" Click="Button_PowerUps_Click" >
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF0068BC" Offset="0"/>
@@ -63,7 +63,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:Name="Button_LootBox"  Content="Loot Box" Margin="20,510,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" >
+        <Button x:Name="Button_LootBox"  Content="Loot Box" Margin="20,510,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" Click="Button_LootBox_Click" >
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF0068BC" Offset="0"/>
@@ -71,7 +71,7 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Button x:Name="Button_Upgrades"  Content="Upgrades" Margin="20,440,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" >
+        <Button x:Name="Button_Upgrades"  Content="Upgrades" Margin="20,440,0,0" FontFamily="Rockwell" Foreground="White" FontSize="18" BorderBrush="{x:Null}" HorizontalAlignment="Left" Width="200" Height="50" VerticalAlignment="Top" Click="Button_Upgrades_Click" >
             <Button.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="#FF0068BC" Offset="0"/>
@@ -79,6 +79,6 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
-        <Image x:Name="ImageBox_Help" HorizontalAlignment="Right" Margin="0,90,70,20" Width="650" Stretch="Fill"/>
+        <Image x:Name="ImageBox_Help" HorizontalAlignment="Right" Margin="0,90,70,20" Width="650" Stretch="Fill" Source="/Project Bytes Launcher;component/Images/Img_UM.png"/>
     </Grid>
 </Window>

@@ -167,5 +167,23 @@
   <ItemGroup>
     <Resource Include="Img_HUD.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Img_Gameplay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Img_Weapons.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Img_PowerUps.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Img_Upgrades.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Img_LootBox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Img_UM.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

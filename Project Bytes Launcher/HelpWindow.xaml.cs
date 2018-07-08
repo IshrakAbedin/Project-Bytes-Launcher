@@ -48,5 +48,55 @@ namespace Project_Bytes_Launcher
 
             ImageBox_Help.Source = B1;
         }
+
+        private void Button_Gameplay_Click(object sender, RoutedEventArgs e)
+        {
+            BitmapImage B1 = new BitmapImage();
+            B1.BeginInit();
+            B1.UriSource = new Uri("Img_Gameplay.png", UriKind.Relative);
+            B1.EndInit();
+
+            ImageBox_Help.Source = B1;
+        }
+
+        private void Button_Weapons_Click(object sender, RoutedEventArgs e)
+        {
+            BitmapImage B1 = new BitmapImage();
+            B1.BeginInit();
+            B1.UriSource = new Uri("Img_Weapons.png", UriKind.Relative);
+            B1.EndInit();
+
+            ImageBox_Help.Source = B1;
+        }
+
+        private void Button_PowerUps_Click(object sender, RoutedEventArgs e)
+        {
+            BitmapImage B1 = new BitmapImage();
+            B1.BeginInit();
+            B1.UriSource = new Uri("Img_PowerUps.png", UriKind.Relative);
+            B1.EndInit();
+
+            ImageBox_Help.Source = B1;
+        }
+
+        private void Button_Upgrades_Click(object sender, RoutedEventArgs e)
+        {
+            BitmapImage B1 = new BitmapImage();
+            B1.BeginInit();
+            B1.UriSource = new Uri("Img_Upgrades.png", UriKind.Relative);
+            B1.EndInit();
+
+            ImageBox_Help.Source = B1;
+        }
+
+        private void Button_LootBox_Click(object sender, RoutedEventArgs e)
+        {
+            BitmapImage B1 = new BitmapImage();
+            B1.BeginInit();
+            B1.UriSource = new Uri("Img_LootBox.png", UriKind.Relative);
+            B1.EndInit();
+
+            ImageBox_Help.Source = B1;
+        }
     }
 }
