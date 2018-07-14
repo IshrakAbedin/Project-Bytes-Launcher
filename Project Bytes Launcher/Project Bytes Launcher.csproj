@@ -185,5 +185,8 @@
   <ItemGroup>
     <Resource Include="Images\Img_UM.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SFX_ButtonClick.wav" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Media;
 
 namespace Project_Bytes_Launcher
 {
@@ -20,6 +21,7 @@ namespace Project_Bytes_Launcher
     /// </summary>
     public partial class MainWindow : Window
     {
+
         public MainWindow()
         {
             InitializeComponent();
@@ -27,22 +29,26 @@ namespace Project_Bytes_Launcher
 
         private void PlayButton_Click(object sender, RoutedEventArgs e)
         {
+            Launcher.PlaySound();
             Launcher.Play();
             Launcher.Quit();
         }
 
         private void QuitButton_Click(object sender, RoutedEventArgs e)
         {
+            Launcher.PlaySound();
             Launcher.Quit();
         }
 
         private void AboutButton_Click(object sender, RoutedEventArgs e)
         {
+            Launcher.PlaySound();
             Launcher.About();
         }
 
         private void HelpButton_Click(object sender, RoutedEventArgs e)
         {
+            Launcher.PlaySound();
             Launcher.Help();
         }
     }

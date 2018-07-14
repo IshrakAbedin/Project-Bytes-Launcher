@@ -26,6 +26,7 @@ namespace Project_Bytes_Launcher
 
         private void OKButton_Click(object sender, RoutedEventArgs e)
         {
+            Launcher.PlaySound();
             this.Close();
         }
     }
