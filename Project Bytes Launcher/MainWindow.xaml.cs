@@ -21,10 +21,13 @@ namespace Project_Bytes_Launcher
     /// </summary>
     public partial class MainWindow : Window
     {
-
+        public static MediaPlayer MP;
         public MainWindow()
         {
             InitializeComponent();
+            MP = new MediaPlayer();
+            MP.Open(new Uri("Launcher Resources/BGM_Launcher.wav",UriKind.Relative));
+            MP.Play();
         }
 
         private void PlayButton_Click(object sender, RoutedEventArgs e)

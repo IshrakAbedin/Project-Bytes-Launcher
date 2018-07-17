@@ -10,8 +10,7 @@ namespace Project_Bytes_Launcher
 {
     class Launcher
     {
-        static SoundPlayer SP = new SoundPlayer(Properties.Resources.SFX_ButtonClick);
-
+        private static SoundPlayer SP = new SoundPlayer(Properties.Resources.SFX_ButtonClick);
         public static void Play()
         {
             Process.Start("Project_Bytes.exe");
@@ -38,6 +37,6 @@ namespace Project_Bytes_Launcher
         {
             SP.Play();
         }
-           
+ 
     }
 }

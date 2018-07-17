@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("img_lootbox.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("launcher%20resources/bgm_launcher.wav")]
 
 

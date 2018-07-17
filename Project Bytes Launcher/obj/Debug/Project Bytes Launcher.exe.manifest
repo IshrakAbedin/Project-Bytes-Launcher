@@ -43,17 +43,26 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Project Bytes Launcher.exe" size="4676056">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Project Bytes Launcher.exe" size="68137944">
       <assemblyIdentity name="Project Bytes Launcher" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RMrlJEZ3yvHU1IRx2fH0Rl4aOWdCl+hs9nDOnYl2KoM=</dsig:DigestValue>
+        <dsig:DigestValue>Yh+alPfUwKpx+DCtxu7Lkt/DrtTe+7fG/XxEoO7kEXE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="Launcher Resources\BGM_Launcher.wav" size="49126796">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>o/wLPHZ/TOo1wkgj+KPC0GkJEIFbXXTCC0sZLbRQquw=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="LauncherIcon.ico" size="78398">
     <hash>
       <dsig:Transforms>

@@ -188,5 +188,11 @@
   <ItemGroup>
     <None Include="Resources\SFX_ButtonClick.wav" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Launcher Resources\BGM_Launcher.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

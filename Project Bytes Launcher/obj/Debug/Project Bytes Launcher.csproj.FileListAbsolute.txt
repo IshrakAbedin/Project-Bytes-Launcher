@@ -42,3 +42,5 @@ G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes L
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.pdb
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\AboutWindow.g.cs
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\AboutWindow.baml
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher_Content.g.cs
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Debug\Launcher Resources\BGM_Launcher.wav
