@@ -23,6 +23,8 @@ namespace Project_Bytes_Launcher
     {
         public static MediaPlayer MP;
         public static bool AudioOn = true;
+        public static ImageBrush brushAudioOn = new ImageBrush(new BitmapImage(new Uri("Launcher Resources/AudioOnIconL.png", UriKind.Relative)));
+        public static ImageBrush brushAudioOff = new ImageBrush(new BitmapImage(new Uri("Launcher Resources/AudioOffIconL.png", UriKind.Relative)));
         public MainWindow()
         {
             InitializeComponent();
@@ -41,6 +43,7 @@ namespace Project_Bytes_Launcher
         private void QuitButton_Click(object sender, RoutedEventArgs e)
         {
             Launcher.PlaySound();
+            MP.Stop();
             Launcher.Quit();
         }
 
@@ -60,14 +63,28 @@ namespace Project_Bytes_Launcher
         {
             if (AudioOn)
             {
+                Launcher.PlaySound();
                 AudioOn = false;
+                AudioButton.Background = brushAudioOff;
                 MP.Stop();
             }
             else if (!AudioOn)
             {
+                Launcher.PlaySound();
                 AudioOn = true;
+                AudioButton.Background = brushAudioOn;
                 MP.Play();
             }
+        }
+
+        private void MoveButton_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            MainWindow1.DragMove();
+        }
+
+        private void Grid_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            this.DragMove();
         }
     }
 }

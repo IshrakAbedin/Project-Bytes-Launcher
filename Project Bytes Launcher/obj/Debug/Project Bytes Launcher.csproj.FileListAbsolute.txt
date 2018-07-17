@@ -43,3 +43,6 @@ G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes L
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.application
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.exe
 G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.pdb
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Debug\Project Bytes Launcher.csprojResolveAssemblyReference.cache
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Debug\Launcher Resources\AudioOffIconL.png
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Debug\Launcher Resources\AudioOnIconL.png

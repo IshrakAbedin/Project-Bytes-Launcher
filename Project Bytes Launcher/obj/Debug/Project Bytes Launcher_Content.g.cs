@@ -8,6 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("launcher%20resources/audioofficonl.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("launcher%20resources/audiooniconl.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("launcher%20resources/bgm_launcher.wav")]
 
 
