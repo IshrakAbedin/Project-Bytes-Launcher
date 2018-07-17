@@ -93,6 +93,22 @@
                 </LinearGradientBrush>
             </Button.Background>
         </Button>
+        <Button x:Name="AudioButton" Margin="168,32,728.6,0" Foreground="White" Opacity="0.8" RenderTransformOrigin="0.5,0.5" FontFamily="Rockwell" FontWeight="Bold" FontSize="36" Cursor="Hand" Click="AudioButton_Click" Height="45" VerticalAlignment="Top" BorderBrush="{x:Null}">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-12"/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+            <Button.Background>
+                <ImageBrush ImageSource="/Project Bytes Launcher;component/Images/AudioIcon.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
 
     </Grid>
 </Window>

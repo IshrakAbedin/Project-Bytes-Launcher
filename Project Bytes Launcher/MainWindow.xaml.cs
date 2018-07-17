@@ -22,6 +22,7 @@ namespace Project_Bytes_Launcher
     public partial class MainWindow : Window
     {
         public static MediaPlayer MP;
+        public static bool AudioOn = true;
         public MainWindow()
         {
             InitializeComponent();
@@ -53,6 +54,20 @@ namespace Project_Bytes_Launcher
         {
             Launcher.PlaySound();
             Launcher.Help();
+        }
+
+        private void AudioButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (AudioOn)
+            {
+                AudioOn = false;
+                MP.Stop();
+            }
+            else if (!AudioOn)
+            {
+                AudioOn = true;
+                MP.Play();
+            }
         }
     }
 }
