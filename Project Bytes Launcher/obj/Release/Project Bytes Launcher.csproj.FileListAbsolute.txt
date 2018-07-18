@@ -18,3 +18,29 @@ G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Pr
 G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.application
 G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.exe
 G:\Visual Studio\C#\Project Bytes Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.pdb
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Release\Launcher Resources\AudioOffIconL.png
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Release\Launcher Resources\AudioOnIconL.png
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Release\Launcher Resources\BGM_Launcher.wav
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Release\Project Bytes Launcher.exe.config
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Release\Project Bytes Launcher.exe.manifest
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Release\Project Bytes Launcher.application
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Release\Project Bytes Launcher.exe
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\bin\Release\Project Bytes Launcher.pdb
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\AboutWindow.g.cs
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\HelpWindow.g.cs
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\MainWindow.g.cs
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\App.g.cs
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher_Content.g.cs
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher_MarkupCompile.cache
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher_MarkupCompile.lref
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\AboutWindow.baml
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\HelpWindow.baml
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\MainWindow.baml
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.g.resources
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project_Bytes_Launcher.Properties.Resources.resources
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.csproj.GenerateResource.Cache
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.csproj.CoreCompileInputs.cache
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.exe.manifest
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.application
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.exe
+G:\REPOS\Project-Bytes-Launcher\Project Bytes Launcher\obj\Release\Project Bytes Launcher.pdb

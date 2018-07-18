@@ -7,14 +7,14 @@
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Project Bytes Launcher.exe.manifest" size="4033">
+    <dependentAssembly dependencyType="install" codebase="Project Bytes Launcher.exe.manifest" size="5272">
       <assemblyIdentity name="Project Bytes Launcher.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>E/5WOBMUnKaGfcFX1AjtFfehHJ2gk/tl8ouxHuKon28=</dsig:DigestValue>
+        <dsig:DigestValue>6+2kTcxg+4So72fRK8kzn+pDVUo9S8gp5LVYJW+Yz84=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

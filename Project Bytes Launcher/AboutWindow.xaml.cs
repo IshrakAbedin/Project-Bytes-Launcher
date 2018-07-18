@@ -29,5 +29,11 @@ namespace Project_Bytes_Launcher
             Launcher.PlaySound();
             this.Close();
         }
+
+
+        private void About_Label_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            this.DragMove();
+        }
     }
 }

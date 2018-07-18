@@ -117,5 +117,10 @@ namespace Project_Bytes_Launcher
 
             ImageBox_Help.Source = B1;
         }
+
+        private void Help_Label_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            this.DragMove();
+        }
     }
 }
