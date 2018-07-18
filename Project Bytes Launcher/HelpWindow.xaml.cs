@@ -106,5 +106,16 @@ namespace Project_Bytes_Launcher
 
             ImageBox_Help.Source = B1;
         }
+
+        private void Button_Achievements_Click(object sender, RoutedEventArgs e)
+        {
+            Launcher.PlaySound();
+            BitmapImage B1 = new BitmapImage();
+            B1.BeginInit();
+            B1.UriSource = new Uri("Img_Achievements.png", UriKind.Relative);
+            B1.EndInit();
+
+            ImageBox_Help.Source = B1;
+        }
     }
 }

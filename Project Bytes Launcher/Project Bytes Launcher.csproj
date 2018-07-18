@@ -193,6 +193,7 @@
     </Resource>
     <Resource Include="Images\LauncherAnimation.png" />
     <Resource Include="GameIcon.ico" />
+    <Resource Include="Img_Achievements.png" />
     <Content Include="Launcher Resources\AudioOffIconL.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

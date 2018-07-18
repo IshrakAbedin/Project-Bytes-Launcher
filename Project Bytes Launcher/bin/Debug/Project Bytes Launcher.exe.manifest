@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Project Bytes Launcher.exe" size="5763544">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Project Bytes Launcher.exe" size="6057432">
       <assemblyIdentity name="Project Bytes Launcher" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>uo+KmKPwIoP1xwWWwb6YaHFYru7zCN9/0XgDdZxT8U8=</dsig:DigestValue>
+        <dsig:DigestValue>/Mv0sXG4xGspm+1CflzD6ktwHe+jkMJ/I7r7FlVW+PE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
